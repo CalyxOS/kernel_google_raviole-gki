@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "409ba89a_34d9ea95",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-06-07T01:28:02Z",
+      "side": 1,
+      "message": "Checked out android/abi_gki_aarch64.xml from the new tag android12-5.10-2022-03_r2",
+      "revId": "9f4a5e42f234cf9141074144c4b2062305926c0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
