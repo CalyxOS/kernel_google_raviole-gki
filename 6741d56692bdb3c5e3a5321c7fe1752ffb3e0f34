@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3640bd2b_3a7b917a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-08-15T20:17:47Z",
+      "side": 1,
+      "message": "No idea why it isn\u0027t letting me submit this one. \"Clicking the button would fail\"\n\nI also see a duplicate abandoned patch",
+      "revId": "6741d56692bdb3c5e3a5321c7fe1752ffb3e0f34",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
